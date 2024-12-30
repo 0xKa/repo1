@@ -1,1 +1,2 @@
 Hello, I'm a Project. This is version 1.0 
+This is version 2.0  
